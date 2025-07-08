@@ -10,10 +10,7 @@ import javax.swing.table.DefaultTableModel;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author LEGION
- */
+
 public class Notes extends javax.swing.JFrame {
 
     private List<Integer> idList = new ArrayList<>();
